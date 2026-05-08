@@ -9,7 +9,7 @@
    ✅ Generate LHDN-ready SST summary  
    
    ### Demo
-   [这里后面放GIF]
+   🤩🤩
    
    ### Price
    .py demo = Free  
